@@ -5,3 +5,5 @@ Goal: The goal of this project is to make a simpel website in HTML and use the s
 Skills: HTML
 
 Next Steps: Add CSS, Add Java
+
+Goals: Improve HTMl
