@@ -7,3 +7,5 @@ Skills: HTML
 Next Steps: Add CSS, Add Java
 
 Goals: Improve HTMl
+
+Future: Have full grasp of HTML, CSS, Java
